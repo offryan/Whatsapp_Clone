@@ -1,15 +1,10 @@
 ## Whatsapp Clone: Curso Js Completo HCode
 
-Install:
-
 ### Comandos para utilizar dentro do terminal do projeto:
 
-1 - Abra o git-bash na pasta do projeto desejado;
+Use o comando:
 
-2 - use o comando:
+ 	npm install/ npm init
 
- 	npm init
-
-3 - use o comando:
-  
-    code .
+## Imagem Demonstrativa
+![whatsapp image](https://user-images.githubusercontent.com/85769101/217362249-d96e7a42-367c-4316-9ce5-7166e35a3c19.jpeg)
