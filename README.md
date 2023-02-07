@@ -1,7 +1,5 @@
 ## Whatsapp Clone: Curso Js Completo HCode
 
-### Comandos para utilizar dentro do terminal do projeto:
-
 Use o comando:
 
  	npm install/ npm init
